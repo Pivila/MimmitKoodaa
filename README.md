@@ -1,0 +1,2 @@
+# MimmitKoodaa
+Training project
